@@ -5,7 +5,7 @@ Users can search by **animal type** and **location**, and view results in colorf
 
 
 [![Frontend Live](https://img.shields.io/badge/Frontend-Live-brightgreen)](https://BhavikTrivedi-26.github.io/pet-adoption-finder-frontend/)  
-[![Backend Live](https://img.shields.io/badge/Backend-Live-blue)](https://pet-adoption-finder-backend.onrender.com/)
+
 
 
 ## 🖼️ Screenshot
