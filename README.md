@@ -7,13 +7,6 @@ Users can search by **animal type** and **location**, and view results in colorf
 [![Frontend Live](https://img.shields.io/badge/Frontend-Live-brightgreen)](https://BhavikTrivedi-26.github.io/pet-adoption-finder-frontend/)  
 
 
-
-## 🖼️ Screenshot
-
-![Pet Adoption Finder Screenshot](https://via.placeholder.com/800x400?text=Pet+Adoption+Finder)
-
----
-
 ## 🚀 Features
 
 - Search pets by type (dog, cat, etc.) and location (ZIP code or city,state)
